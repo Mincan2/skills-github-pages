@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog
 ---
-
-content: here is some content for the blog.
+---
+content: Here is some content for the blog.
+---
